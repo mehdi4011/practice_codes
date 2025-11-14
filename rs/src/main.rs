@@ -1,6 +1,9 @@
 use std::io::{stdin};
 
 fn main() {
+    println!("_________________________________");
+    println!("hello world...!!");
+    println!("_________________________________");
     for num in 1..=10 {
         // init
         println!("{}", num);
